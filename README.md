@@ -15,10 +15,9 @@ Este repositório contém três projetos integrados:
 - **Maven**: `Apache Maven 3.9.11`
 
 ## 2. Portas Utilizadas
-  Backend: 8080
-  Frontend: 5173
-  Mobile: 49913
-
+ - **Backend**: 8080
+ - **Frontend**: 5173
+ - **Mobile**: 49913
 
 ## 3. Como executar cada projeto
 
