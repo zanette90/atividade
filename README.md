@@ -56,11 +56,11 @@ Mobile App: Android Studio / VS Code (Flutter)
 [![H2 no DBeaver](https://github.com/zanette90/atividade/raw/main/1/screenshots/dbeaver_h2.png)](https://github.com/zanette90/atividade/tree/main/1/screenshots/DBeaver_conectado_ao_H2.png)
 
 **Frontend no VS Code**  
-[![Frontend no VS Code](https://github.com/zanette90/atividade/raw/main/1/screenshots/vscode_frontend.png)](https://github.com/zanette90/atividade/tree/main/1/screenshots/VS_Code_com_projeto_frontend_aberto.png)
+[![Frontend no VS Code]([https://github.com/zanette90/atividade/raw/main/1/screenshots/vscode_frontend.png])](https://github.com/zanette90/atividade/tree/main/1/screenshots/VS_Code_com_projeto_frontend_aberto.png)
 
 **Mobile App no Flutter **  
 [![Mobile App no Flutter](https://github.com/zanette90/atividade/raw/main/1/screenshots/ide_flutter.png)](https://github.com/zanette90/atividade/tree/main/1/screenshots/IDE_escolhida_com_projeto_Flutter_aberto.png)
 
-
+## 5. Dificuldades encontradas
 
 
