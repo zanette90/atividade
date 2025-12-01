@@ -20,7 +20,7 @@ Este repositório contém três projetos integrados:
   Mobile: 49913
 
 
-# 3. Como executar cada projeto
+## 3. Como executar cada projeto
 
 ### Backend (Java + Spring Boot)
 cd backend
@@ -28,12 +28,12 @@ mvn clean install
 mvn spring-boot:run
 Porta: 8080 (padrão)
 
-###Frontend 
+### Frontend 
 cd frontend
 npm install
 npm run dev
 
-###Mobile
+### Mobile
 cd mobile_app
 flutter run
 
