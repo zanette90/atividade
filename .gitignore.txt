@@ -1,0 +1,35 @@
+
+# Backend 
+
+/target/
+*.log
+*.class
+*.jar
+*.war
+*.iml
+/.idea/
+/.mvn/
+*.h2.db
+
+#Frontend (React / Node.js)
+
+/node_modules/
+build/
+dist/
+.env
+npm-debug.log
+yarn-error.log
+.vscode/
+
+
+# Mobile (Flutter)
+/build/
+/.dart_tool/
+/.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.idea/
+*.iml
+*.lock
+
