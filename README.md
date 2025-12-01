@@ -54,5 +54,5 @@ Mobile App: Android Studio / VS Code (Flutter)
 **Frontend no VS Code**  
 [![Frontend no VS Code](https://github.com/zanette90/atividade/raw/main/1/screenshots/vscode_frontend.png)](https://github.com/zanette90/atividade/tree/main/1/screenshots/VS_Code_com_projeto_frontend_aberto.png)
 
-**Mobile App no Flutter (IDE escolhida)**  
+**Mobile App no Flutter **  
 [![Mobile App no Flutter](https://github.com/zanette90/atividade/raw/main/1/screenshots/ide_flutter.png)](https://github.com/zanette90/atividade/tree/main/1/screenshots/IDE_escolhida_com_projeto_Flutter_aberto.png)
