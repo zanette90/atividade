@@ -26,7 +26,6 @@ Este repositório contém três projetos integrados:
 cd backend
 mvn clean install
 mvn spring-boot:run
-Porta: 8080 (padrão)
 
 ### Frontend 
 cd frontend
