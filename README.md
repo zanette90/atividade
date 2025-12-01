@@ -41,7 +41,7 @@ Frontend: VS Code
 Mobile App: Android Studio / VS Code (Flutter)
 
 
-## 4. Screenshots
+## 3. Screenshots
 
 ### IDEs com projetos abertos
 
