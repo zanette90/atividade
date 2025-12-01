@@ -46,13 +46,13 @@ Mobile App: Android Studio / VS Code (Flutter)
 ### IDEs com projetos abertos
 
 **Backend no IntelliJ IDEA**
-![Backend no IntelliJ](screenshots/intellij_backend.png)
+![Backend no IntelliJ](https://github.com/zanette90/atividade/tree/main/1/screenshots/intellij_backend.png)
 
 **Banco H2 no DBeaver**  
-![H2 no DBeaver](1/screenshots/dbeaver_h2.png)
+![H2 no DBeaver](https://github.com/zanette90/atividade/tree/main/1/screenshots/1/screenshots/DBeaver conectado ao H2.png)
 
 **Frontend no VS Code**  
-![Frontend no VS Code](1/screenshots/vscode_frontend.png)
+![Frontend no VS Code](https://github.com/zanette90/atividade/tree/main/1/screenshots/1/screenshots/VS Code com projeto frontend aberto.png)
 
 **Mobile App no Flutter (IDE escolhida)**  
-![Mobile App no Flutter](1/screenshots/ide_flutter.png)
+![Mobile App no Flutter](https://github.com/zanette90/atividade/tree/main/1/screenshots/1/screenshots/IDE escolhida com projeto Flutter aberto.png)
