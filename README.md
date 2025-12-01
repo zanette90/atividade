@@ -61,6 +61,5 @@ Mobile App: Android Studio / VS Code (Flutter)
 **Mobile App no Flutter **  
 [![Mobile App no Flutter](https://github.com/zanette90/atividade/raw/main/1/screenshots/ide_flutter.png)](https://github.com/zanette90/atividade/tree/main/1/screenshots/IDE_escolhida_com_projeto_Flutter_aberto.png)
 
-## 5. Dificuldades encontradas
 
 
