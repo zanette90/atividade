@@ -45,14 +45,14 @@ Mobile App: Android Studio / VS Code (Flutter)
 
 ### IDEs com projetos abertos
 
-**Backend no IntelliJ IDEA**  
+**Backend no IntelliJ IDEA**
 ![Backend no IntelliJ](screenshots/intellij_backend.png)
 
 **Banco H2 no DBeaver**  
-![H2 no DBeaver](screenshots/dbeaver_h2.png)
+![H2 no DBeaver](1/screenshots/dbeaver_h2.png)
 
 **Frontend no VS Code**  
-![Frontend no VS Code](screenshots/vscode_frontend.png)
+![Frontend no VS Code](1/screenshots/vscode_frontend.png)
 
 **Mobile App no Flutter (IDE escolhida)**  
-![Mobile App no Flutter](screenshots/ide_flutter.png)
+![Mobile App no Flutter](1/screenshots/ide_flutter.png)
