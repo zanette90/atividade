@@ -12,10 +12,15 @@ Este repositório contém três projetos integrados:
 - **Java**: `java 17.0.10 2024-01-16 LTS` 
 - **Node.js**: `v18.20.8`  
 - **Flutter**: `3.38.3 channel stable `  
-- **Maven**: `Apache Maven 3.9.11`  
+- **Maven**: `Apache Maven 3.9.11`
+
+## 2. Portas Utilizadas
+  Backend: 8080
+  Frontend: 5173
+  Mobile: 49913
 
 
-# 2. Como executar cada projeto
+# 3. Como executar cada projeto
 
 ### Backend (Java + Spring Boot)
 cd backend
@@ -40,7 +45,6 @@ Frontend: VS Code
 
 Mobile App: Android Studio / VS Code (Flutter)
 
-
 ## 3. Screenshots
 
 ### IDEs com projetos abertos
@@ -56,3 +60,7 @@ Mobile App: Android Studio / VS Code (Flutter)
 
 **Mobile App no Flutter **  
 [![Mobile App no Flutter](https://github.com/zanette90/atividade/raw/main/1/screenshots/ide_flutter.png)](https://github.com/zanette90/atividade/tree/main/1/screenshots/IDE_escolhida_com_projeto_Flutter_aberto.png)
+
+
+
+
