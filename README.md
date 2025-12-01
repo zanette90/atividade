@@ -45,14 +45,14 @@ Mobile App: Android Studio / VS Code (Flutter)
 
 ### IDEs com projetos abertos
 
-**Backend no IntelliJ IDEA**
-![Backend no IntelliJ](https://github.com/zanette90/atividade/tree/main/1/screenshots/intellij_backend.png)
+**Backend no IntelliJ IDEA Community**  
+[![Backend no IntelliJ](https://github.com/zanette90/atividade/raw/main/1/screenshots/intellij_backend.png)](https://github.com/zanette90/atividade/tree/main/1/screenshots/IntelliJ_IDEA_com_projeto_backend_aberto.png)
 
 **Banco H2 no DBeaver**  
-![H2 no DBeaver](https://github.com/zanette90/atividade/tree/main/1/screenshots/1/screenshots/DBeaver conectado ao H2.png)
+[![H2 no DBeaver](https://github.com/zanette90/atividade/raw/main/1/screenshots/dbeaver_h2.png)](https://github.com/zanette90/atividade/tree/main/1/screenshots/DBeaver_conectado_ao_H2.png)
 
 **Frontend no VS Code**  
-![Frontend no VS Code](https://github.com/zanette90/atividade/tree/main/1/screenshots/1/screenshots/VS Code com projeto frontend aberto.png)
+[![Frontend no VS Code](https://github.com/zanette90/atividade/raw/main/1/screenshots/vscode_frontend.png)](https://github.com/zanette90/atividade/tree/main/1/screenshots/VS_Code_com_projeto_frontend_aberto.png)
 
 **Mobile App no Flutter (IDE escolhida)**  
-![Mobile App no Flutter](https://github.com/zanette90/atividade/tree/main/1/screenshots/1/screenshots/IDE escolhida com projeto Flutter aberto.png)
+[![Mobile App no Flutter](https://github.com/zanette90/atividade/raw/main/1/screenshots/ide_flutter.png)](https://github.com/zanette90/atividade/tree/main/1/screenshots/IDE_escolhida_com_projeto_Flutter_aberto.png)
