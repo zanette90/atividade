@@ -2,18 +2,20 @@ package com.example.Leads.dto;
 
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.NotBlank;
+import jakarta.validation.constraints.Pattern;
 
 @Valid
-public record CadastroLeadDto(
+public record DadosCadastroLead(
         @NotBlank
         String nome,
-        @NotBlank
+        @Pattern( regexp = "^[^\\s@]+@[^\\s@]+\\.[^\\s@]+$",
+                message = "Email inválido")
         String email,
         @NotBlank
         String telefone,
         String empresa,
-        String observacoes,
-        StatusLead statusLead
+        String observacoes
+
         ){
 
 }

@@ -1,39 +1,50 @@
-package com.example.Leads.Entity;
+package com.example.Leads.entity;
 
-import com.example.Leads.dto.CadastroLeadDto;
+import com.example.Leads.dto.DadosAtualizarLead;
+import com.example.Leads.dto.DadosCadastroLead;
 import com.example.Leads.dto.StatusLead;
 import jakarta.persistence.*;
-import lombok.Getter;
-import lombok.NoArgsConstructor;
-import lombok.Setter;
+import lombok.*;
+
 
 import java.time.LocalDateTime;
 
 @Entity
 @NoArgsConstructor
-@Getter
+@AllArgsConstructor
+@EqualsAndHashCode
 public class Lead {
+    @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private long id;
-    @Setter
+    @Getter @Setter
     private String nome;
-    @Setter
+    @Getter @Setter
     private String email;
-    @Setter
+    @Getter @Setter
     private String telefone;
-    @Setter
+    @Getter @Setter
     private String empresa;
+    @Getter @Setter
+    private String observacoes;
     @Enumerated(EnumType.STRING)
-    @Setter
+    @Getter @Setter
     private StatusLead status;
+    @Getter
     private LocalDateTime dataCadastro;
 
-    public Lead(CadastroLeadDto dadosCadastro) {
+    public Lead(DadosCadastroLead dadosCadastro) {
         this.nome = dadosCadastro.nome();
         this.email = dadosCadastro.email();
         this.telefone = dadosCadastro.telefone();
         this.empresa = dadosCadastro.empresa();
-        this.status = dadosCadastro.statusLead();
+        this.observacoes = dadosCadastro.observacoes();
+        this.status = StatusLead.NOVO;
         this.dataCadastro = LocalDateTime.now();
     }
+
+    public void atualizar(DadosAtualizarLead dadosAtualizarLead) {
+        setStatus(dadosAtualizarLead.status());
+    }
+
 }
