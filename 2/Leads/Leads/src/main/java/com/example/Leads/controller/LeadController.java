@@ -39,4 +39,9 @@ public class LeadController {
     public ResponseEntity<DadosDetalhamentoLead> buscarById (@PathVariable long id) {
         return leadService.buscaById(id);
     }
+
+    @DeleteMapping("/{id}")
+    public ResponseEntity deleteById(@PathVariable long id) {
+        return leadService.delete(id);
+    }
 }

@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76ec0e4a-33d6-4008-820a-b5b96e9a2ec1" name="Changes" comment="" />
+    <list default="true" id="76ec0e4a-33d6-4008-820a-b5b96e9a2ec1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../frontend/kanban/src/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../moibile_app/mobile_app/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leads/src/main/java/com/example/Leads/controller/LeadController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leads/src/main/java/com/example/Leads/controller/LeadController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leads/src/main/java/com/example/Leads/dto/DadosDetalhamentoLead.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leads/src/main/java/com/example/Leads/dto/DadosDetalhamentoLead.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leads/src/main/java/com/example/Leads/entity/Lead.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leads/src/main/java/com/example/Leads/entity/Lead.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leads/src/main/java/com/example/Leads/exceptions/GlobalExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leads/src/main/java/com/example/Leads/exceptions/Exceptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leads/src/main/java/com/example/Leads/infra/CorsConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leads/src/main/java/com/example/Leads/infra/CorsConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leads/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Leads/src/main/resources/data.sql" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,23 +30,31 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="36GE4HoGNKvvolG7nWT6w6FCTZ1" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.LeadsApplication.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.LeadsApplication.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Atividade/2/Leads&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.19310345&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.3879837&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

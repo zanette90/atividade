@@ -14,7 +14,7 @@ import java.time.LocalDateTime;
 @AllArgsConstructor
 @EqualsAndHashCode
 public class Lead {
-    @Id
+    @Id @Getter
     @GeneratedValue(strategy = GenerationType.AUTO)
     private long id;
     @Getter @Setter
